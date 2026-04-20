@@ -1,0 +1,5 @@
+
+Lead Created → Outreach Sent
+Candidate Created → Match Triggered
+Job Created → Auto Matching
+Assignment Created → Notification Sent
